@@ -38,7 +38,8 @@ h1 {
   height: auto;
 }
 
-.add-to-cart {
+.add-to-cart,
+#checkout-button {
   background-color: olive;
   color: #fff;
   border: none;
